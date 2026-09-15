@@ -1,0 +1,54 @@
+{
+    "api_base_url": "http://in-timetracking.euroland.com/api",
+    "api_user": "Thiyagu Sekar",
+    "api_token": "774acf7def5521b0cc9e49a4f",
+    "projects": [
+        {
+            "id": 29,
+            "name": "Spokes Person"
+        }
+    ],
+    "activities": [
+        {
+            "name": "Testing",
+            "prefix": "I was tested the code"
+        },
+        {
+            "name": "Scraping",
+            "prefix": ""
+        },
+        {
+            "name": "Deployment",
+            "prefix": "I was change the code and deployment"
+        },
+        {
+            "name": "Development",
+            "prefix": "I was code create and changes the code"
+        },
+        {
+            "name": "Code Debug",
+            "prefix": ""
+        },
+        {
+            "id": 21,
+            "name": "Code Review",
+            "prefix": "check the code workflow"
+        }
+    ],
+    "shift_schedules": [
+        {
+            "name": "Shift 1 (9 AM - 6 PM)",
+            "slot1_start": "09:00",
+            "slot1_end": "13:00",
+            "slot2_start": "14:00",
+            "slot2_end": "18:00"
+        },
+        {
+            "name": "Shift 2 (10 AM - 7 PM)",
+            "slot1_start": "10:00",
+            "slot1_end": "14:00",
+            "slot2_start": "15:00",
+            "slot2_end": "19:00"
+        }
+    ]
+}
